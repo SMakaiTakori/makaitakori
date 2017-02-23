@@ -1,1 +1,1 @@
-alert('Hello this alert mean js is linked');
+// alert('Hello this alert mean js is linked');
