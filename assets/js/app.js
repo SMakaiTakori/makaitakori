@@ -1,0 +1,1 @@
+alert('Hello this alert mean js is linked');
