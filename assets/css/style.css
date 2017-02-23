@@ -6,17 +6,24 @@ body {
     background-size: cover;
 }
 
+.me {
+    height: 150px;
+    border-radius: 50%;
+    border: solid whitesmoke;
+}
+
+
 h1 {
-    color: white;
+    color: #2A001A;
     font-size: 50px;
 }
 
 h2 {
-    color: white;
+    color: #2A001A;
     font-size: 18px;
 }
 
 .bio {
-    color: white;
+    color: whitesmoke;
 
 }
