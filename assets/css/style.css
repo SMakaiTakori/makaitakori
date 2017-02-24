@@ -4,12 +4,24 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: 'Libre Baskerville', sans-serif;
+}
+
+/*font-family: 'Libre Baskerville', serif;*/
+/*font-family: 'Roboto Slab', serif;*/
+
+.about{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 .me {
     height: 150px;
     border-radius: 50%;
     border: solid whitesmoke;
+    margin-top: 40px;
 }
 
 
@@ -24,6 +36,6 @@ h2 {
 }
 
 .bio {
-    color: whitesmoke;
+    color: #2A001A;
 
 }
