@@ -4,4 +4,45 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: 'Libre Baskerville', sans-serif;
+}
+
+.about{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.me {
+    height: 150px;
+    border-radius: 50%;
+    border: solid whitesmoke;
+    margin-top: 40px;
+}
+
+h1 {
+    color: #2A001A;
+    font-size: 50px;
+    margin-bottom: 14px;
+}
+
+h2 {
+    color: #2A001A;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 0;
+}
+
+hr {
+    height: 3px;
+    width: 50px;
+    background-color: whitesmoke;
+    border: none;
+}
+
+.bio {
+    color: #2A001A;
+    font-weight: 400;
+    font-size: 14px;
 }
