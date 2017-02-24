@@ -7,9 +7,6 @@ body {
     font-family: 'Libre Baskerville', sans-serif;
 }
 
-/*font-family: 'Libre Baskerville', serif;*/
-/*font-family: 'Roboto Slab', serif;*/
-
 .about{
     width: 400px;
     margin-left: auto;
@@ -24,7 +21,6 @@ body {
     margin-top: 40px;
 }
 
-
 h1 {
     color: #2A001A;
     font-size: 50px;
@@ -37,5 +33,6 @@ h2 {
 
 .bio {
     color: #2A001A;
+    font-weight: 400;
 
 }
