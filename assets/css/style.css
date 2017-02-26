@@ -41,8 +41,66 @@ hr {
     border: none;
 }
 
+.text-box{
+    background-color: whitesmoke;
+}
+
 .bio {
+    font-family: 'Libre Baskerville', sans-serif;
     color: #2A001A;
-    font-weight: 400;
+    font-weight: 800;
     font-size: 14px;
+}
+
+/**!Below is the footer\**/
+
+.navbar-fixed-bottom{
+    background-color: transparent;
+}
+
+.navbar-text p {
+    color:#2A001A;
+    font-family: 'Libre Baskerville', sans-serif;
+    font-weight: 600;
+}
+
+.navbar-text > a {
+    color: #2A001A;
+    text-decoration: none;
+    margin:.4rem;
+}
+
+.navbar-text > a > i:hover {
+    color: #808080;
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.thumbnail-gallery {
+    margin-top: 5em;
+}
+.thumbnail-gallery img {
+    margin-bottom: 1em;
+}
+.thumbnail-gallery a {
+    padding-right: 2rem;
+    margin-top: 2em;
+}
+.thumbnail-gallery:hover img {
+    opacity: .5;
+    transform: scale(.90);
+}
+.thumbnail-gallery img:hover {
+    opacity: 1;
+    transform: scale(1) rotate(4deg);
+    box-shadow: 0 0 20px rgba(0, 0, 0, .8);
+}
+.rotate a:hover {
+    transform: rotate(90deg);
 }
