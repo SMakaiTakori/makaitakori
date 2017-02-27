@@ -1,5 +1,5 @@
 body {
-    background: url('../images/coffee_background.jpg') no-repeat center center fixed;
+    background: url('../images/envelopes.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -8,7 +8,7 @@ body {
 }
 
 .about{
-    width: 500px;
+    width: 600px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -18,13 +18,14 @@ body {
     height: 150px;
     border-radius: 50%;
     border: solid whitesmoke;
-    margin-top: 40px;
+    margin-top: 44px;
+    margin-bottom: 10px;
 }
 
 h1 {
     color: #2A001A;
     font-size: 50px;
-    margin-bottom: 14px;
+    margin-bottom: 0;
 }
 
 h2 {
@@ -37,7 +38,7 @@ h2 {
 hr {
     height: 3px;
     width: 50px;
-    background-color: whitesmoke;
+    background-color: #585c63;
     border: none;
 }
 
