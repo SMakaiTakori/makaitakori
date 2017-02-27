@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45592f45-fd0c-45fe-be30-b2e3b8ae5abe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/envelopes.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
     </list>
@@ -35,8 +34,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="51">
+              <caret line="69" column="18" lean-forward="false" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -253,7 +252,7 @@
       <workItem from="1487877211227" duration="7362000" />
       <workItem from="1487886894030" duration="6760000" />
       <workItem from="1488148649991" duration="3401000" />
-      <workItem from="1488155539218" duration="3359000" />
+      <workItem from="1488155539218" duration="4349000" />
     </task>
     <task id="LOCAL-00001" summary="Added in Headings and background image">
       <created>1487885084966</created>
@@ -318,11 +317,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488160078110</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="changed profile image border color">
+      <created>1488160373252</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1488160373252</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22159000" />
+    <option name="totallyTimeSpent" value="23149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -362,7 +368,8 @@
     <MESSAGE value="Fixed biography margins" />
     <MESSAGE value="added pinterest icon" />
     <MESSAGE value="changed background image" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed background image" />
+    <MESSAGE value="changed profile image border color" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed profile image border color" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -495,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="51">
+          <caret line="69" column="18" lean-forward="false" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
           <folding />
         </state>
       </provider>
