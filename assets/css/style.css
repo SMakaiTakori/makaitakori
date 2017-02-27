@@ -17,7 +17,7 @@ body {
 .me {
     height: 150px;
     border-radius: 50%;
-    border: solid whitesmoke;
+    border: solid #585c63;
     margin-top: 44px;
     margin-bottom: 10px;
 }
