@@ -8,7 +8,7 @@ body {
 }
 
 .about{
-    width: 600px;
+    width: 1000px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -18,7 +18,7 @@ body {
     height: 150px;
     border-radius: 50%;
     border: solid #233300;
-    margin-top: 44px;
+    margin-top: 30px;
     margin-bottom: 5px;
 }
 
@@ -43,9 +43,12 @@ hr {
 }
 
 .bio {
+    margin-left: auto;
+    margin-right: auto;
     color: #2A001A;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 12px;
+    width: 1000px;
 }
 
 /**!Below is the footer\**/
