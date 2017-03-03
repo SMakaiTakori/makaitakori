@@ -1,14 +1,15 @@
 body {
-    background: url('../images/worthy-of-elegance-6732.jpg') no-repeat center center fixed;
+    background: url('../images/roman-kraft-192449.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     font-family: 'Libre Baskerville', sans-serif;
+    color: #2A001A;
 }
 
 .about{
-    width: 600px;
+    width: 650px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -18,18 +19,16 @@ body {
     height: 150px;
     border-radius: 50%;
     border: solid #233300;
-    margin-top: 30px;
+    margin-top: 40px;
     margin-bottom: 5px;
 }
 
 h1 {
-    color: whitesmoke;
     font-size: 50px;
     margin-bottom: 10px;
 }
 
 h2 {
-    color: whitesmoke;
     font-size: 18px;
     font-weight: 600;
     margin-top: 0;
@@ -45,10 +44,9 @@ hr {
 .bio {
     margin-left: auto;
     margin-right: auto;
-    color: white;
-    font-weight: 400;
-    font-size: 14px;
-    width: 600px;
+    font-weight: 600;
+    font-size: 10pt;
+    width: 650px;
 }
 
 /**!Below is the footer\**/
