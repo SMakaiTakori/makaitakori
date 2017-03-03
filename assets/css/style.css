@@ -1,5 +1,5 @@
 body {
-    background: url('../images/envelopes.jpg') no-repeat center center fixed;
+    background: url('../images/worthy-of-elegance-6732.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -8,7 +8,7 @@ body {
 }
 
 .about{
-    width: 1000px;
+    width: 600px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -23,13 +23,13 @@ body {
 }
 
 h1 {
-    color: #2A001A;
+    color: whitesmoke;
     font-size: 50px;
     margin-bottom: 10px;
 }
 
 h2 {
-    color: #2A001A;
+    color: whitesmoke;
     font-size: 18px;
     font-weight: 600;
     margin-top: 0;
@@ -45,10 +45,10 @@ hr {
 .bio {
     margin-left: auto;
     margin-right: auto;
-    color: #2A001A;
-    font-weight: 600;
-    font-size: 12px;
-    width: 1000px;
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+    width: 600px;
 }
 
 /**!Below is the footer\**/
